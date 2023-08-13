@@ -1,7 +1,7 @@
 ---
 date: '2022-5-11'
 title: 'JPL Program'
-company: 'NASA JPL'
+company: 'NASA'
 location: 'Pasadena, CA'
 range: 'May - August 2022'
 url: 'https://www.jpl.nasa.gov'
