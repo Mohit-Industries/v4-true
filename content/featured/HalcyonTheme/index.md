@@ -1,6 +1,7 @@
 ---
-date: '2023-06-22'
+date: '1'
 title: 'Garbanzo Beans'
+cover: './halcyon.png'
 github: 'https://github.com/GitHubEmploy/GarbanzoBeans'
 external: 'https://devpost.com/software/garbanzo-beans?ref_content=user-portfolio&ref_feature=in_progress'
 tech:
