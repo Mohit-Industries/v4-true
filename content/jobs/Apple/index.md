@@ -1,13 +1,13 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2023-8-8'
+title: 'Engineering Intern'
+company: 'AON3D'
+location: 'Quebec, CA'
+range: 'August - Present 2023'
+url: 'https://www.aon3d.com'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Utilized CAD software to create and optimize 3D models for printing, aligning with customer specifications and industry standards, resulting in a 15% reduction in material usage.
+- Operated and maintained a range of 3D printers, including FDM and SLA technologies, to ensure high-quality production. Collaborated with the engineering team to troubleshoot and resolve printing issues, improving efficiency by 20%.
+- Contributed to the research and testing of new printing materials, analyzing their properties and applications in different 3D printing processes. Developed a comprehensive report that guided the selection of materials for specific projects.
+- Worked closely with marketing, sales, and engineering teams to develop customer-focused 3D printing solutions. Participated in client meetings to provide technical insights and helped create custom prototypes that enhanced client satisfaction and sales.
