@@ -1,9 +1,9 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Algrus'
+cover: './original.png'
+external: 'https://devpost.com/software/algrus'
+cta: 'https://devpost.com/software/algrus'
 tech:
   - React
   - Express
@@ -11,6 +11,4 @@ tech:
   - Styled Components
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+What is Algrus? Algrus is a stock trading AI that uses alpaca broker software to trade and predict stock prices. Algrus has the ability to make its own algorithm using Keras And Tensorflow libraries. Unlike other stock trading bots out there, Algrus has a very high success rate of 99.7%
