@@ -215,7 +215,13 @@ const Projects = () => {
     const { frontmatter, html } = node;
     const { github, external, title, tech } = frontmatter;
 
+    return (
+      <div className="project-inner">
 
+
+
+      </div>
+    );
   };
 
 
