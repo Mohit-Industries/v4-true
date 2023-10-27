@@ -13,7 +13,7 @@ const IconLogo = () => (
           strokeLinejoin="round"
           points="39 0 0 22 0 67 39 90 78 68 78 23"
         />
-        <text x="50%" y="50%" fill="currentColor" fontSize="55px" fontFamily="Consolas, serif" textAnchor="middle">
+        <text x="50%" y="50%" fill="currentColor" fontSize="55px" fontFamily="Arial Rounded MT Bold, Arial, sans-serif" textAnchor="middle">
           M
         </text>
       </g>
