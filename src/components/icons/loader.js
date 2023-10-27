@@ -4,7 +4,7 @@ const IconLoader = () => (
   <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
     <title>Loader Logo</title>
     <g>
-      <text x="50%" y="70" fill="currentColor" fontSize="55px" fontFamily="Consolas, serif" textAnchor="middle">
+      <text x="50%" y="70" fill="currentColor" fontSize="55px" fontFamily="Arial Rounded MT Bold, Arial, sans-serif" textAnchor="middle">
         M
       </text>
       <path
