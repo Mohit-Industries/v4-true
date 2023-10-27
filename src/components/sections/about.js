@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Hackerrank #1 Functional Programming Internationally', 'Hackerrank #4 Machine Learning Internationally', 'Hackerrank #6 Cybersecurity Nationally', 'Top 25 PicoCTF 2023', '1st Place 2023 DEDA Entrepreneurship Competition', "1st Place Under 18 Division DRL Drone Competion",'3rd Place Flux.AI PCB Competition', '300+ Volunteer Hours', '45+ Published Research Articles'];
+  const skills = ['Hackerrank #1 Functional Programming Internationally', 'Hackerrank #4 Machine Learning Internationally', 'Hackerrank #6 Cybersecurity Nationally', "USACO Platinum", 'Top 25 PicoCTF 2023', '1st Place 2023 DEDA Entrepreneurship Competition', "1st Place Under 18 Division DRL Drone Competion",'3rd Place Flux.AI PCB Competition', '300+ Volunteer Hours', '45+ Published Research Articles'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
